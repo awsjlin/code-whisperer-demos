@@ -1,0 +1,1 @@
+# create a function to place N queens on an NxN chess board without any in check

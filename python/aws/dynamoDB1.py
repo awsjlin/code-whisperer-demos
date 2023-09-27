@@ -1,0 +1,1 @@
+# function to create a dynamoDB table with employee ID as primary key

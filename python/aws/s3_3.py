@@ -1,0 +1,1 @@
+# Function to get S3 object as memory stream
